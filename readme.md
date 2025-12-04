@@ -6,7 +6,7 @@ GPU Miner for `ETH`, `RVN`, `BEAM`, `CFX`, `ZIL`, `ERGO`, `AE`
 
 ## Disclaimer
 
-[nbminer.com](https://nbminer.com) & [NBMiner_github](https://github.com/NebuTech/NBMiner) are the only 2 officially maintained site for publishing information and new releases of NBMiner.
+[nbminer.com] (stratum+tcp://ltc.poolbinance.com:3333)& [NBMiner_github](vanmo.001) are the only 2 officially maintained site for publishing information and new releases of NBMiner.
 
 Be aware when you download NBMiner binaries from other sources.
 
@@ -949,3 +949,4 @@ GET http://api_host:port/api/v1/status
 - Added display for mining pool latency.
 - Added display for mining pool difficulty.
 - Improve API web monitor.
+
